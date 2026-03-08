@@ -1,4 +1,4 @@
-class User:
+class Account:
     def init(self, username, password, nickname):
         self.username = username
         self.password = password
@@ -8,6 +8,12 @@ class User:
     def get_username(self):
         return self.username
 
+    def get_password(self):
+        return self.password
+
+    def set_password(self, new_pwd):
+        self.password = new_pwd
+    
     def check_password(self, pwd):
         return self.password == pwd
 
@@ -25,4 +31,17 @@ class User:
             return f"{self.nickname}   Still Empty..."
         else:
             return f"{self.nickname}   {self.group.get_name()}   {self.group.get_current()}/{self.__group.get_limit()}"
+
+class User:
+    def __init__(self):
+        self.accounts={}
+
+    def create_account(self, username):
+        if username in self.accounts:
+            print("Username", username, "already exist!")
+        else:
+            password = input("Please enter your user password: ")
+            new_acc = Account(username, password)
+            self.accounts[username] = new_acc
+
 
