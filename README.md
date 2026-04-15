@@ -1,5 +1,5 @@
 <p align="center">
-     <img src="logo.png" width="400">
+     <img src="/image/logo.png" width="400">
 
 ## Schooping-system: Application for students to find their groupmates
 
@@ -16,7 +16,7 @@ Whatever you are finding friends or study partners
 You can try Schooping-system ! 
 ## Interface Simulation
 <p align="center">     
-<img src="interface simulation.png" width="800">
+<img src="/image/interface simulation.png" width="800">
 
 ## 📚 Contents
 
@@ -102,7 +102,7 @@ Performs heap sort and returns groups sorted from fewest to most members
 ✅ Ideal for coursework and academic projects
 
 <p align="center">     
-<img src="team.jpg" width="400">
+<img src="/image/team.jpg" width="400">
 
 <p align="center">Working together never feel alone 
 together makes us home！！！
