@@ -294,8 +294,3 @@ def main():
                       print("⚠️ 無效的選項，請重新輸入。")
 if __name__ == "__main__":
     main()
-                    else:
-                      print("⚠️ 無效的選項，請重新輸入。")
-if __name__ == "__main__":
-    main()
-
