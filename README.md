@@ -180,7 +180,53 @@ For the convenience of grading, you may use the following pre-registered account
 
 
 ## 🚀Schooping2 User Guide
+<p align="center">
+    <img src="/image/logo.png" width="400">
+</p>
 
+## Heap-Group-System: Automatic Student Group Balancing System
+
+[Your Name](https://github.com/your-username)
+
+Heap-Group-System is a system that automatically balances student groups using **Max Heap** and **Heap Sort**.
+
+For those who need to quickly and fairly assign students to groups, this system ensures equal distribution without manual work.
+
+Whether you are managing course projects or activity teams,
+You can try Heap-Group-System!
+
+---
+
+## 📚 Contents
+- [Purpose](#purpose)
+- [System Requirements](#system-requirements)
+- [Program Structure](#program-structure)
+- [How to Run](#how-to-run)
+- [Expected Output](#expected-output)
+- [Customization Guide](#customization-guide)
+- [Key Features](#key-features)
+
+---
+
+### Purpose
+Heap-Group-System automatically assigns new students to the **least crowded group** using Max Heap and Heap Sort, ensuring balanced team sizes.
+
+### System Requirements
+- Python 3.6 or above
+- No external libraries required
+- Works in any Python editor or online compiler (OnlineGDB / Replit)
+
+### Program Structure
+1. **Group Class**: Manages group ID, members, max size, and adding students
+2. **MaxHeap Class**: Implements max-heap operations (insert, extract max, heapify)
+3. **heap_sort_groups()**: Uses Heap Sort to sort groups by member count
+4. **Main Program**: Creates groups, adds initial students, runs sorting and auto-assignment
+
+### How to Run
+1. Save the code as `heap_group_system.py`
+2. Run in terminal:
+   ```bash
+   python heap_group_system.py
 
 <p align="center">
      <img src="/image/friends group.avif" width="300">
