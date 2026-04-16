@@ -27,6 +27,7 @@ You can try Schooping-system !
 - [Program Workflow](#program-workflow)
 - [Key Advantages](#key-advantages)
 - [Schooping1 User Guide](#schooping1-user-guide)
+- [Schooping2 User Guide](#schooping2-user-guide)
 
 ---
 
@@ -154,12 +155,34 @@ Once logged in, the system determines your role based on your status:
 ## 👥 Demo Credentials
 
 For the convenience of grading, you may use the following pre-registered account:
-- Username: Boss
-- Password: 123
+
+<div align="center">
+<h3>🔐 System Login Interface</h3>
+<pre style="font-family: monospace; font-size: 14px; color: #58a6ff;">
+┌─────────────────────────────┐
+│  _______________________    │
+│ │ Username     boss     │    │
+│  _______________________    │
+│                             │
+│  _______________________    │
+│ │ Password      123     │    │
+│  _______________________    │
+│                             │
+│   [ Sign In ]               │
+└─────────────────────────────┘
+</pre>
+</div>
+
+
+## Simulation
+<p align="center">     
+<img src="/image/login and register.png" width="200">
+
+## 🚀Schooping2 User Guide
 
 
 <p align="center">
-     <img src="/image/friends group.avif" width="500">
+     <img src="/image/friends group.avif" width="300">
 
 ## <a name="Statement"></a>:underage:Statement
 
