@@ -107,8 +107,51 @@ Performs heap sort and returns groups sorted from fewest to most members
 <p align="center">Working together never feel alone 
 together makes us home！！！
 
+## 🚀 Schooping - User Guide
 
+Welcome to Schooping! This guide will help you set up and run the Group Management System on your local machine.
 
+## 📋 Prerequisites     
+
+Before running the program, ensure you have the following installed:
+
+✅ Python 3.8 or higher.
+
+## 📥 Installation & Setup
+
+1. Click into main profile of our Schooping system
+2. Click the green 「<> Code」 button
+3. Click the download ZIP
+4. Unzip the file you download
+5. Double click the .py file to run the program
+6. Enjoy your experience
+
+## 📖 Quick Start Instructions
+
+### 1.Initial Access
+Upon launching, you will see the Welcome Menu:
+- Register: Create a new account.
+- Login: Enter your credentials to access the system.
+
+### 2. Role Selection
+Once logged in, the system determines your role based on your status:
+- No Group: You will be asked to choose between (1) Create a Group [Leader] or (2) Join a Group [Member].
+- In a Group: The system will automatically load your specific management or member menu.
+
+### 3. Key Operations
+- As a Leader: You can approve/reject pending applications and dissolve the group (which resets all members back to the initial state).
+- As a Member: You can browse all available groups and check your application status.
+
+## 🛠️ Troubleshooting
+
+- ModuleNotFoundError: This program uses the Python Standard Library only (abc, math, etc.), so no external pip install is required. If you encounter errors, ensure you are running Python 3.
+- Input Errors: If you enter an invalid menu option, the system will prompt you with a "Warning" message and allow you to try again without crashing.
+
+## 👥 Demo Credentials
+
+For the convenience of grading, you may use the following pre-registered account:
+- Username: Boss
+- Password: 123
 
 ## <a name="Statement"></a>:underage:Statement
 
