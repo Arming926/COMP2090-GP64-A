@@ -1,4 +1,3 @@
-print("still thinking")
 class Group:
     """Group class to store group information and members"""
     def __init__(self, group_id, max_size=5):
