@@ -23,7 +23,7 @@ You can try Schooping-system !
 - [Key Features](#key-features)
 - [Quick Start](#quick-start)
 - [User Guide](#user-guide)
-- [Troubleshooting](#troubleshooting)
+- [Trouble Shooting](#trouble-shooting)
 - [Technical Architecture](#technical-architecture)
 - [Demo Credentials](#demo-credentials)
 
@@ -60,7 +60,7 @@ Once logged in, the system determines your role based on your status:
 - As a Leader: You can approve/reject pending applications and dissolve the group (which resets all members back to the initial state).
 - As a Member: You can browse all available groups and check your application status.
 
-## 🛠️Troubleshooting
+## 🛠️Trouble shooting
 
 - ModuleNotFoundError: This program uses the Python Standard Library only (abc, math, etc.), so no external pip install is required. If you encounter errors, ensure you are running Python 3.
 - Input Errors: If you enter an invalid menu option, the system will prompt you with a "Warning" message and allow you to try again without crashing.
@@ -73,7 +73,7 @@ This project strictly adheres to the **Four Pillars of Object-Oriented Programmi
 - **Encapsulation**: Protects data integrity using private attributes (e.g., __MAX_SIZE) and object referencing (joined_group_obj) to manage internal states.
 - **Polymorphism**: Implements method overriding for show_menu(), allowing a single interface call to execute role-specific behaviors.
 
-## 👥 Demo Credentials
+## 👥Demo Credentials
 
 For the convenience of grading, you may use the following pre-registered account:
 
