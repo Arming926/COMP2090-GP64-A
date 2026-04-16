@@ -108,6 +108,9 @@ Performs heap sort and returns groups sorted from fewest to most members
 <p align="center">Working together never feel alone 
 together makes us home！！！
 
+
+
+
 ## 🚀Schooping1 User Guide
 
 Welcome to Schooping! This guide will help you set up and run the Group Management System on your local machine.
