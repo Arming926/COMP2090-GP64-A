@@ -26,6 +26,7 @@ You can try Schooping-system !
 - [Class Structure](#class-structure)
 - [Program Workflow](#program-workflow)
 - [Key Advantages](#key-advantages)
+- [🚀Schooping1 - User Guide](#schooping1)
 
 ---
 
@@ -107,7 +108,7 @@ Performs heap sort and returns groups sorted from fewest to most members
 <p align="center">Working together never feel alone 
 together makes us home！！！
 
-## 🚀 Schooping - User Guide
+## 🚀Schooping1 - User Guide
 
 Welcome to Schooping! This guide will help you set up and run the Group Management System on your local machine.
 
