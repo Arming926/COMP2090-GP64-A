@@ -26,7 +26,7 @@ You can try Schooping-system !
 - [Class Structure](#class-structure)
 - [Program Workflow](#program-workflow)
 - [Key Advantages](#key-advantages)
-- [🚀Schooping1 - User Guide](#schooping1)
+- [🚀Schooping1 - User Guide](#schooping1userguide)
 
 ---
 
