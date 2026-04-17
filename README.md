@@ -74,7 +74,7 @@ Once logged in, the system determines your role based on your status:
 - As a Member: You can browse all available groups and check your application status.
 
 
-## 🛠️Trouble Shooting
+## Trouble Shooting
 
 - ModuleNotFoundError: This program uses the Python Standard Library only (`abc`, `math`, etc.), so no external pip install is required. If you encounter errors, ensure you are running Python 3.
 - Input Errors: If you enter an invalid menu option, the system will prompt you with a "Warning" message and allow you to try again without crashing.
